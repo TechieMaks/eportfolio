@@ -3952,13 +3952,6 @@ input, select, textarea {
 		}
 /* Custom Light Blue Section */
 .wrapper.lightblue {
-  background-color: #e6f0ff; /* Light blue background */
-  color: #000; /* Optional: ensures text stays black */
-}
-
-.wrapper.lightblue h2,
-.wrapper.lightblue p,
-.wrapper.lightblue a,
-.wrapper.lightblue .button {
-  color: #000 !important;
+  background-color: #223A5E; /* Light blue background */
+  color: #255; /* Optional: ensures text stays black */
 }
