@@ -3950,8 +3950,3 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
-/* Custom Light Blue Section */
-.wrapper.lightblue {
-  background-color: #223A5E; /* Light blue background */
-  color: #255; /* Optional: ensures text stays black */
-}
